@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/prsp-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\PrspModule\\": "src/"
+        }
+    }
+}
